@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Hastanevs.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Hastanevs.Utility
 {   
@@ -6,5 +7,8 @@ namespace Hastanevs.Utility
     public class HastaneDbContext : DbContext
     {
         public HastaneDbContext(DbContextOptions<HastaneDbContext> options) : base(options) { }
+
+        //entity frameworkde bolum adlı sınıfa tekabul eden veritabanındaki tablomuzun ismi bolumler olacak şekilde ayarlıyoruz.
+        public DbSet<Bolum> Bolumler { get; set; }
     }
 }
