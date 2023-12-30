@@ -1,0 +1,26 @@
+﻿@model List<Bolum> //bu annotation sayesinde tablodaki bilgileri sayfada kullanabileceğiz.
+
+<h1>Bölümler</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>
+               Id
+            </td>
+            <td>
+             Bölüm Adı
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var bolums in Model)
+        {   
+            <tr>
+                <td>@bolums.id</td>
+                <td>@bolums.BolumAdi</td>
+            </tr>           
+        }
+        
+
+    </tbody>
+</tab>
