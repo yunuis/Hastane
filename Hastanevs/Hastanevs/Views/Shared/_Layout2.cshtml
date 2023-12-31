@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Hastanevs</title>
+    <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Hastanevs.styles.css" asp-append-version="true" />
@@ -34,7 +34,7 @@
                 <a class="navbar-brand" href="@Url.Action("Index", "Home")">
                     <img src="~/Resim/sau.jpg" alt="Logo">
                 </a>
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SauHas</a>
+                <a class="navbar-brand " asp-area="" asp-controller="Home" asp-action="Index">SauHas</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -42,10 +42,10 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1 ">
                         <li class="nav-item">
-                            <a class="nav-link text-dark px-3" asp-area="" asp-controller="Home" asp-action="Index">Hastanemiz</a>
+                            <a class="nav-link text-dark px-4" asp-area="" asp-controller="Home" asp-action="Index">Hastanemiz</a>
                         </li>                      
                         <li class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tıbbi Birimler <b class="caret"></b></a>
+                            <a href="#" class="nav-link dropdown-toggle px-4" data-toggle="dropdown">Tıbbi Birimler <b class="caret"></b></a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="@Url.Action("Goz", "Bolum")">Göz</a>
                                 <a class="dropdown-item" href="@Url.Action("Cildiye", "Bolum")">Cildiye</a>
@@ -53,10 +53,22 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link text-dark px-3" asp-area="" asp-controller="Home" asp-action="Privacy">Doktorlarımız</a>
+                        <a class="nav-link text-dark px-4" asp-area="" asp-controller="Home" asp-action="Privacy">Doktorlarımız</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark px-3" asp-area="" asp-controller="Bolum" asp-action="Index">deneme</a>
+                            <a class="nav-link text-dark px-4" asp-area="" asp-controller="Bolum" asp-action="Index">deneme</a>
+                        </li>
+                        <li class="ml-auto text-right">
+                            <a class="btn btn-success " asp-area="" asp-controller="Account" asp-action="Login">Giriş Yap</a>
+                        </li>
+                        <li class="ml-2 dropdown text-right ">
+                            <a href="#" class="nav-link dropdown-toggle pl-4" data-toggle="dropdown">
+                                <img src="~/Resim/language.png" alt="Dil" class="social-img">
+                                <b class="caret"></b></a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="@Url.Action("", "")">Türkçe</a>
+                                <a class="dropdown-item" href="@Url.Action("", "")">English</a>
+                            </div>
                         </li>
                     </ul>
                 </div>

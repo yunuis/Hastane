@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CmKEZxwW399bfnKi9MsvYE7rK9jpZ7KCsRhZaKI3rdw=",
+  "Hash": "uADzoTmgt9rKW6W/ze7mbwryVfNAiYo/qMnE0GcKMyA=",
   "Source": "Hastanevs",
   "BasePath": "_content/Hastanevs",
   "Mode": "Default",
@@ -1171,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Resim\\instagram.png"
+    },
+    {
+      "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\language.png",
+      "SourceId": "Hastanevs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\",
+      "BasePath": "_content/Hastanevs",
+      "RelativePath": "Resim/language.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resim\\language.png"
     },
     {
       "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\linkedin.png",
