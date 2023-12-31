@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Resim\\doktormessi.jpg"
     },
     {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\facebook.jpg",
+      "PackagePath": "staticwebassets\\Resim\\facebook.jpg"
+    },
+    {
       "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\goz.jpg",
       "PackagePath": "staticwebassets\\Resim\\goz.jpg"
     },
@@ -21,12 +25,28 @@
       "PackagePath": "staticwebassets\\Resim\\hadise1.jpg"
     },
     {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\instagram.png",
+      "PackagePath": "staticwebassets\\Resim\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\linkedin.png",
+      "PackagePath": "staticwebassets\\Resim\\linkedin.png"
+    },
+    {
       "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\noroloji.jpg",
       "PackagePath": "staticwebassets\\Resim\\noroloji.jpg"
     },
     {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\sau.jpg",
+      "PackagePath": "staticwebassets\\Resim\\sau.jpg"
+    },
+    {
       "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\sembol.jpg",
       "PackagePath": "staticwebassets\\Resim\\sembol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\youtube.png",
+      "PackagePath": "staticwebassets\\Resim\\youtube.png"
     },
     {
       "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\yunix.jpg",

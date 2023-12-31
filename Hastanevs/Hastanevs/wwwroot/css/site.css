@@ -16,3 +16,62 @@ html {
 body {
   margin-bottom: 60px;
 }
+.navbar-brand img {
+    width: 110px;
+    max-width: 150px;
+    height: auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+
+    .section h2 {
+        color: #333;
+    }
+
+    .section p {
+        color: #666;
+        width: 50%;
+        float: left;
+    }
+
+    .section img {
+        width: 25%;
+        height: 25%; /* Resmin en ve boyunu ayný oranda ayarladýk */
+        object-fit: cover; /* Resmin boyutunu korumak için ekledik */
+        float: right;
+        margin-left: 10px;
+        border: 1px solid #ccc;
+    }
+
+.doctors-section {
+    margin-top: 40px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.doctor-img {
+    max-width: 30%;
+    height: auto;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    display: inline-block;
+}
+.social-img {
+    width: 20px;
+    max-width: 20px;
+    height: auto;
+}

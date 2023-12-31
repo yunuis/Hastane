@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RL8lm+l/MWROF9SjIazLlYBI0/9j4DGwNsQg+BRFXt4=",
+  "Hash": "CmKEZxwW399bfnKi9MsvYE7rK9jpZ7KCsRhZaKI3rdw=",
   "Source": "Hastanevs",
   "BasePath": "_content/Hastanevs",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\Resim\\doktormessi.jpg"
     },
     {
+      "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\facebook.jpg",
+      "SourceId": "Hastanevs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\",
+      "BasePath": "_content/Hastanevs",
+      "RelativePath": "Resim/facebook.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resim\\facebook.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\goz.jpg",
       "SourceId": "Hastanevs",
       "SourceType": "Discovered",
@@ -1139,6 +1156,40 @@
       "OriginalItemSpec": "wwwroot\\Resim\\hadise1.jpg"
     },
     {
+      "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\instagram.png",
+      "SourceId": "Hastanevs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\",
+      "BasePath": "_content/Hastanevs",
+      "RelativePath": "Resim/instagram.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resim\\instagram.png"
+    },
+    {
+      "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\linkedin.png",
+      "SourceId": "Hastanevs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\",
+      "BasePath": "_content/Hastanevs",
+      "RelativePath": "Resim/linkedin.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resim\\linkedin.png"
+    },
+    {
       "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\noroloji.jpg",
       "SourceId": "Hastanevs",
       "SourceType": "Discovered",
@@ -1156,6 +1207,23 @@
       "OriginalItemSpec": "wwwroot\\Resim\\noroloji.jpg"
     },
     {
+      "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\sau.jpg",
+      "SourceId": "Hastanevs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\",
+      "BasePath": "_content/Hastanevs",
+      "RelativePath": "Resim/sau.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resim\\sau.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\sembol.jpg",
       "SourceId": "Hastanevs",
       "SourceType": "Discovered",
@@ -1171,6 +1239,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Resim\\sembol.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\youtube.png",
+      "SourceId": "Hastanevs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\",
+      "BasePath": "_content/Hastanevs",
+      "RelativePath": "Resim/youtube.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resim\\youtube.png"
     },
     {
       "Identity": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\yunix.jpg",
