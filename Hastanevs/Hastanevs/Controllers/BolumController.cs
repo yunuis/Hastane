@@ -19,5 +19,17 @@ namespace Hastanevs.Controllers
             List<Bolum> objBolumList = _hastaneDbContext.Bolumler.ToList();
             return View(objBolumList);
         }
+        public IActionResult Goz()
+        {
+            return View();
+        }
+        public IActionResult Cildiye()
+        {
+            return View();
+        }
+        public IActionResult Noroloji()
+        {
+            return View();
+        }
     }
 }

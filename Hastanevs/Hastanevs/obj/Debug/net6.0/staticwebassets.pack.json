@@ -5,6 +5,34 @@
       "PackagePath": "staticwebassets\\Hastanevs.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\cildiye1.jpg",
+      "PackagePath": "staticwebassets\\Resim\\cildiye1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\doktormessi.jpg",
+      "PackagePath": "staticwebassets\\Resim\\doktormessi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\goz.jpg",
+      "PackagePath": "staticwebassets\\Resim\\goz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\hadise1.jpg",
+      "PackagePath": "staticwebassets\\Resim\\hadise1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\noroloji.jpg",
+      "PackagePath": "staticwebassets\\Resim\\noroloji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\sembol.jpg",
+      "PackagePath": "staticwebassets\\Resim\\sembol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\Resim\\yunix.jpg",
+      "PackagePath": "staticwebassets\\Resim\\yunix.jpg"
+    },
+    {
       "Id": "C:\\Users\\yunus\\Desktop\\hastane\\Hastanevs\\Hastanevs\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
