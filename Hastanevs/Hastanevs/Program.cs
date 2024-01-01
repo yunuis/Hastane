@@ -1,5 +1,7 @@
 using Hastanevs.Utility;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,11 +10,17 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<HastaneDbContext>(options=>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-/*GetConnectionString ile connectionlarý yani baðlantýlarýmýzý aldýk.
-appsettingsjsonda böyle kullanmamýz istendiðinden böyle yaptýk.
-asp.net mekanizmasýna dedik ki oluþturduðumuz hastanedbcontext dosyasýný kullan,bu köprü dosyasýný oluþtururken
-sql server kullan. bu sql serveri kullanýrken de defaultconnection'ý kullan.
-Böylece database ve entitiyler arasýndaki köprü olan hastanedbcontext köprüsünü kurmuþ olduk.*/
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<HastaneDbContext>().AddDefaultTokenProviders();
+/*GetConnectionString ile connectionlarï¿½ yani baï¿½lantï¿½larï¿½mï¿½zï¿½ aldï¿½k.
+appsettingsjsonda bï¿½yle kullanmamï¿½z istendiï¿½inden bï¿½yle yaptï¿½k.
+asp.net mekanizmasï¿½na dedik ki oluï¿½turduï¿½umuz hastanedbcontext dosyasï¿½nï¿½ kullan,bu kï¿½prï¿½ dosyasï¿½nï¿½ oluï¿½tururken
+sql server kullan. bu sql serveri kullanï¿½rken de defaultconnection'ï¿½ kullan.
+Bï¿½ylece database ve entitiyler arasï¿½ndaki kï¿½prï¿½ olan hastanedbcontext kï¿½prï¿½sï¿½nï¿½ kurmuï¿½ olduk.*/
+
+builder.Services.AddRazorPages(); //razor sayfalarÄ±nÄ± kullanabilmek iÃ§in.
+builder.Services.AddScoped<IEmailSender, EmailSender>();
 
 var app = builder.Build();
 
@@ -28,8 +36,11 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
+
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",
