@@ -33,6 +33,16 @@ body {
     padding: 20px;
 }
 
+.resim-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.resim {
+    width: 30%;
+    margin: 5px;
+}
+
 .section {
     margin-bottom: 40px;
     overflow: hidden;

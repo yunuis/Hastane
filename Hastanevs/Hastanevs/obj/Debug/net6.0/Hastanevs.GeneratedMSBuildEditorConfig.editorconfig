@@ -9,57 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hastanevs
 build_property.RootNamespace = Hastanevs
-build_property.ProjectDir = C:\Users\yunus\Desktop\hastane\Hastanevs\Hastanevs\
+build_property.ProjectDir = C:\Users\omerf\Desktop\WebOdev\Hastane\Hastanevs\Hastanevs\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\yunus\Desktop\hastane\Hastanevs\Hastanevs
+build_property.MSBuildProjectDirectory = C:\Users\omerf\Desktop\WebOdev\Hastane\Hastanevs\Hastanevs
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Bolum/Cildiye.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Bolum/Cildiye.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cQ2lsZGl5ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Bolum/Goz.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Bolum/Goz.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cR296LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Bolum/Index.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Bolum/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Bolum/Noroloji.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Bolum/Noroloji.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sdW1cTm9yb2xvamkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Home/Index.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Home/Doktorlarimiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb2t0b3JsYXJpbWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Home/Hastanemiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXN0YW5lbWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Home/Privacy.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Shared/Error.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Shared/_Layout2.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Shared/_Layout2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/_ViewImports.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/_ViewStart.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/yunus/Desktop/hastane/Hastanevs/Hastanevs/Views/Shared/_Layout.cshtml]
+[C:/Users/omerf/Desktop/WebOdev/Hastane/Hastanevs/Hastanevs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-900fcu9lar

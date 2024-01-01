@@ -17,8 +17,15 @@ namespace Hastanevs.Controllers
         {
             return View();
         }
-
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Hastanemiz()
+        {
+            return View();
+        }
+        public IActionResult Doktorlarimiz()
         {
             return View();
         }
