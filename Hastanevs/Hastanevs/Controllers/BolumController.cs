@@ -31,5 +31,6 @@ namespace Hastanevs.Controllers
         {
             return View();
         }
+
     }
 }
